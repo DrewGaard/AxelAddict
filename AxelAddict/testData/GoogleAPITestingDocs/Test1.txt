@@ -1,0 +1,455 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&cref={cref?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - family car",
+    "totalResults": "266000000",
+    "searchTerms": "family car",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "013036536707430787589:_pqjad5hr1a"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - family car",
+    "totalResults": "266000000",
+    "searchTerms": "family car",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "013036536707430787589:_pqjad5hr1a"
+   }
+  ]
+ },
+ "context": {
+  "title": "Custom Search"
+ },
+ "searchInformation": {
+  "searchTime": 0.554513,
+  "formattedSearchTime": "0.55",
+  "totalResults": "266000000",
+  "formattedTotalResults": "266,000,000"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "16 Best Family Cars of 2016 - Kelley Blue Book",
+   "htmlTitle": "16 Best \u003cb\u003eFamily Cars\u003c/b\u003e of 2016 - Kelley Blue Book",
+   "link": "https://www.kbb.com/car-news/all-the-latest/best-family-cars-2016/2100000263/",
+   "displayLink": "www.kbb.com",
+   "snippet": "Feb 4, 2016 ... The family car sure isn't what it used to be. But then the family sure isn't what it \nused to be either. Families come in all shapes, sizes and ...",
+   "htmlSnippet": "Feb 4, 2016 \u003cb\u003e...\u003c/b\u003e The \u003cb\u003efamily car\u003c/b\u003e sure isn&#39;t what it used to be. But then the family sure isn&#39;t what it \u003cbr\u003e\nused to be either. Families come in all shapes, sizes and&nbsp;...",
+   "cacheId": "nZ9mqNuM3BAJ",
+   "formattedUrl": "https://www.kbb.com/car-news/all-the...family-cars.../2100000263/",
+   "htmlFormattedUrl": "https://www.kbb.com/\u003cb\u003ecar\u003c/b\u003e-news/all-the...\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003ecars\u003c/b\u003e.../2100000263/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "87",
+      "height": "65",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3D5cCLwymTukJ9jCw7_UUhpW_bs2x_r8mAmaoNbWd81kgIEFOGsfr"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "16 Best Family Cars of 2016",
+      "og:type": "product",
+      "og:url": "https://www.kbb.com/car-news/all-the-latest/best-family-cars-2016/2100000263/",
+      "og:image": "//file.kbb.com/kbb/images/content/latestnews///cms.kelleybluebookimages.com/content/dam/kbb-editorial/family-cars/2016/best-family-car-2016-group.jpg",
+      "og:description": "16 Best Family Cars of 2016",
+      "og:site_name": "Kbb.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://file.kbb.com/kbb/vehicleimage/housenew/96x72/2017/2017-mazda-cx-5-frontside_mtcx51701.jpg?interpolation=high-quality&downsize=120:60"
+     }
+    ],
+    "article": [
+     {
+      "sourceorganization": "Kelley Blue Book",
+      "url": "/content/KBB/publishing-tools/top-ten-lists/_2016/best-family-cars-2016.html",
+      "title": "16 Best Family Cars of 2016",
+      "storysummary": "For two weeks’ time we drove, lived-with, folded-down-seats-of, paired-phones-to and installed-baby-seats-in each and"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Family Car",
+   "htmlTitle": "The \u003cb\u003eFamily Car\u003c/b\u003e",
+   "link": "http://www.familycar.com/",
+   "displayLink": "www.familycar.com",
+   "snippet": "",
+   "htmlSnippet": "",
+   "formattedUrl": "www.familycar.com/",
+   "htmlFormattedUrl": "www.\u003cb\u003efamilycar\u003c/b\u003e.com/"
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "12 Best Family Cars of 2017 - Kelley Blue Book",
+   "htmlTitle": "12 Best \u003cb\u003eFamily Cars\u003c/b\u003e of 2017 - Kelley Blue Book",
+   "link": "https://www.kbb.com/car-news/all-the-latest/best-family-cars-suvs-minivans/2100001791/",
+   "displayLink": "www.kbb.com",
+   "snippet": "Feb 14, 2017 ... Looking at sales trends, soccer fields and school drop-off lines it's clear that \ntoday's family car is actually an SUV. And the family-friendliest ...",
+   "htmlSnippet": "Feb 14, 2017 \u003cb\u003e...\u003c/b\u003e Looking at sales trends, soccer fields and school drop-off lines it&#39;s clear that \u003cbr\u003e\ntoday&#39;s \u003cb\u003efamily car\u003c/b\u003e is actually an SUV. And the family-friendliest&nbsp;...",
+   "cacheId": "7JiS4a00cusJ",
+   "formattedUrl": "https://www.kbb.com/car-news/all-the...family-cars.../2100001791/",
+   "htmlFormattedUrl": "https://www.kbb.com/\u003cb\u003ecar\u003c/b\u003e-news/all-the...\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003ecars\u003c/b\u003e.../2100001791/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "87",
+      "height": "65",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS3D5cCLwymTukJ9jCw7_UUhpW_bs2x_r8mAmaoNbWd81kgIEFOGsfr"
+     }
+    ],
+    "metatags": [
+     {
+      "og:title": "12 Best Family Cars of 2017",
+      "og:type": "product",
+      "og:url": "https://www.kbb.com/car-news/all-the-latest/best-family-cars-suvs-minivans/2100001791/",
+      "og:image": "//file.kbb.com/kbb/images/content/latestnews///cms.kelleybluebookimages.com/content/dam/kbb-editorial/make/chrysler/pacifica/2017-bb-chrysler-pacifica/01-2017-chrysler-pacifica-best-buy.jpg",
+      "og:description": "12 Best Family Cars of 2017",
+      "og:site_name": "Kbb.com"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://file.kbb.com/kbb/vehicleimage/housenew/96x72/2017/2017-mazda-cx-5-frontside_mtcx51701.jpg?interpolation=high-quality&downsize=120:60"
+     }
+    ],
+    "article": [
+     {
+      "sourceorganization": "Kelley Blue Book",
+      "url": "/content/KBB/publishing-tools/primary-content/family_cars/_2017/best-family-cars-suvs-minivans.html",
+      "title": "12 Best Family Cars of 2017",
+      "tags": "content-type:primary-content/awards"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "The Best New Cars for Growing Families – Feature – Car and Driver",
+   "htmlTitle": "The Best New \u003cb\u003eCars\u003c/b\u003e for Growing \u003cb\u003eFamilies\u003c/b\u003e – Feature – \u003cb\u003eCar\u003c/b\u003e and Driver",
+   "link": "http://www.caranddriver.com/flipbook/get-up-everybody-and-sing-the-best-new-cars-for-growing-families",
+   "displayLink": "www.caranddriver.com",
+   "snippet": "You can't go wrong if you choose one of these cars, crossovers, SUVs, or wagons\n. See the list at Car and Driver.",
+   "htmlSnippet": "You can&#39;t go wrong if you choose one of these \u003cb\u003ecars\u003c/b\u003e, crossovers, SUVs, or wagons\u003cbr\u003e\n. See the list at \u003cb\u003eCar\u003c/b\u003e and Driver.",
+   "cacheId": "W9WHDVgPVvUJ",
+   "formattedUrl": "www.caranddriver.com/.../get-up-everybody-and-sing-the-best-new-cars-for- growing-families",
+   "htmlFormattedUrl": "www.\u003cb\u003ecar\u003c/b\u003eanddriver.com/.../get-up-everybody-and-sing-the-best-new-\u003cb\u003ecars\u003c/b\u003e-for- growing-\u003cb\u003efamilies\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "287",
+      "height": "175",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSdb10AAsy3rnrftCriSEdIFJ19QJpS0FqUXnKb23hz-FRHBArTcBCVkXQc"
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Home"
+     },
+     {
+      "url": "Features",
+      "title": "Features"
+     },
+     {
+      "title": "Get Up Everybody and Sing: The Best New Cars for Growing Families"
+     }
+    ],
+    "metatags": [
+     {
+      "news_keywords": "flipbook, slideshow, list, family cars, best, list, Dodge, Durango, Ford, Flex, Honda, CR-V, Fit, Kia Soul, Sorento, Mazda CX-5, Mazda 6, 6, Subaru, Forester, Toyota, Sienna, Volkswagen, Golf, Volvo, V60, SportWagen, station wagon, crossover, SUV, CUV, sedan, family, family cars, best cars for families, all-wheel drive, AWD, FWD, front-wheel drive, picks, choices, cars, car news",
+      "og:title": "The Best New Cars for Growing Families – Feature – Car and Driver",
+      "og:description": "You can't go wrong if you choose one of these cars, crossovers, SUVs, or wagons. See the list at Car and Driver.",
+      "og:image": "http://blog.caranddriver.com/wp-content/uploads/2015/06/family-grow-876x535.jpg",
+      "og:site_name": "Car and Driver",
+      "fb:app_id": "154511494572992",
+      "og:url": "http://www.caranddriver.com/flipbook/get-up-everybody-and-sing-the-best-new-cars-for-growing-families?_share_",
+      "twitter:account_id": "14342661",
+      "viewport": "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://blog.caranddriver.com/wp-content/uploads/2015/06/family-grow-876x535.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Best Cars for Families Awards 2017 | U.S. News & World Report",
+   "htmlTitle": "Best \u003cb\u003eCars\u003c/b\u003e for \u003cb\u003eFamilies\u003c/b\u003e Awards 2017 | U.S. News &amp; World Report",
+   "link": "https://cars.usnews.com/cars-trucks/Best-Cars-for-Families/",
+   "displayLink": "cars.usnews.com",
+   "snippet": "Mar 7, 2017 ... View the 2017 U.S. News Best Cars for Families Award winners to find the right \ncar for your family.",
+   "htmlSnippet": "Mar 7, 2017 \u003cb\u003e...\u003c/b\u003e View the 2017 U.S. News Best \u003cb\u003eCars\u003c/b\u003e for \u003cb\u003eFamilies\u003c/b\u003e Award winners to find the right \u003cbr\u003e\n\u003cb\u003ecar\u003c/b\u003e for your \u003cb\u003efamily\u003c/b\u003e.",
+   "cacheId": "IUnMJAW9yGsJ",
+   "formattedUrl": "https://cars.usnews.com/cars-trucks/Best-Cars-for-Families/",
+   "htmlFormattedUrl": "https://\u003cb\u003ecars\u003c/b\u003e.usnews.com/\u003cb\u003ecars\u003c/b\u003e-trucks/Best-\u003cb\u003eCars\u003c/b\u003e-for-\u003cb\u003eFamilies\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "224",
+      "height": "112",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMFJ80twQ0mrhq_s8e7qYSS9xH71uy8_oMNAba6xb7yVlil_blaJLJrQ"
+     }
+    ],
+    "metatags": [
+     {
+      "msvalidate.01": "7DCD612AD8E63D93862402FD2F476BDF",
+      "y_key": "c8440d8af56defe4"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://cars.usnews.com/static/images/Auto/custom/13281/Kia_Cadenza_1260_280x140.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Best Family Cars of 2015 | Parenting",
+   "htmlTitle": "Best \u003cb\u003eFamily Cars\u003c/b\u003e of 2015 | Parenting",
+   "link": "http://www.parenting.com/family-time/money/best-family-cars-2015",
+   "displayLink": "www.parenting.com",
+   "snippet": "We did the research for you! We talked to experts to get their recommendations \non the safest, most fuel efficient, and just plain best 2015 family cars out there.",
+   "htmlSnippet": "We did the research for you! We talked to experts to get their recommendations \u003cbr\u003e\non the safest, most fuel efficient, and just plain best 2015 \u003cb\u003efamily cars\u003c/b\u003e out there.",
+   "cacheId": "4pokDruJYzUJ",
+   "formattedUrl": "www.parenting.com/family-time/money/best-family-cars-2015",
+   "htmlFormattedUrl": "www.parenting.com/\u003cb\u003efamily\u003c/b\u003e-time/money/best-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003ecars\u003c/b\u003e-2015",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSASGcGQEyBs3I1BMUc3yGlTAOLBcex9aElJJCQUZ_Pqg_ITS_2aZvlXCU"
+     }
+    ],
+    "metatags": [
+     {
+      "og:type": "article",
+      "og:title": "Best Family Cars of 2015",
+      "og:site_name": "Parenting",
+      "og:image": "http://images.parenting.mdpcdn.com/sites/parenting.com/files/styles/facebook_og_image/public/600_ss1_family-cars.jpg?itok=PLGLml2y",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:url": "http://www.parenting.com/family-time/money/best-family-cars-2015",
+      "fb:app_id": "156713514403314",
+      "article:published_time": "2014-12-31T07:42:00-0600",
+      "article:modified_time": "2016-09-01T13:27:41-0500"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://images.parenting.mdpcdn.com/sites/parenting.com/files/styles/facebook_og_image/public/600_ss1_family-cars.jpg?itok=PLGLml2y"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Best Family Cars - Consumer Reports",
+   "htmlTitle": "Best \u003cb\u003eFamily Cars\u003c/b\u003e - Consumer Reports",
+   "link": "http://www.consumerreports.org/cars/best-family-cars/",
+   "displayLink": "www.consumerreports.org",
+   "snippet": "Sep 28, 2016 ... Looking for the best family cars? Consumer Reports put together a selection of \nstandout vehicles for the needs of your family.",
+   "htmlSnippet": "Sep 28, 2016 \u003cb\u003e...\u003c/b\u003e Looking for the best \u003cb\u003efamily cars\u003c/b\u003e? Consumer Reports put together a selection of \u003cbr\u003e\nstandout vehicles for the needs of your family.",
+   "cacheId": "bQS_jvKj6EAJ",
+   "formattedUrl": "www.consumerreports.org/cars/best-family-cars/",
+   "htmlFormattedUrl": "www.consumerreports.org/\u003cb\u003ecars\u003c/b\u003e/best-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003ecars\u003c/b\u003e/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "385",
+      "height": "131",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQwaJm5z6UsUHMtMFyo536Qohr2OrqWpMcbk7Mh9rlYO-NUwBy6yeoL6JXj"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "initial-scale=1.0,minimum-scale=1.0, maximum-scale=1.0",
+      "og:image": "http://article.images.consumerreports.org/prod/content/dam/cro/magazine-articles/2016/November/CR-magazine-Hero-Family-cars-09-16",
+      "og:url": "http://www.consumerreports.org/cars/best-family-cars/",
+      "og:title": "Best Family Cars",
+      "fb:app_id": "551478298314138",
+      "og:type": "article",
+      "og:site_name": "Consumer Reports",
+      "og:locale": "en_US",
+      "og:description": "Looking for the best family cars? Consumer Reports put together a selection of standout vehicles for the needs of your family.",
+      "twitter:card": "summary",
+      "twitter:site": "@consumerreports",
+      "twitter:title": "Best Family Cars",
+      "twitter:image": "http://article.images.consumerreports.org/prod/content/dam/cro/magazine-articles/2016/November/CR-magazine-Hero-Family-cars-09-16",
+      "twitter:description": "Looking for the best family cars? Consumer Reports put together a selection of standout vehicles for the needs of your family.",
+      "publishdate": "2016-09-28T19:13Z",
+      "last-modified": "2016-09-29T13:30Z"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://article.images.consumerreports.org/prod/content/dam/cro/magazine-articles/2016/November/CR-magazine-Hero-Family-cars-09-16"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Top 10 Family Cars for 2016 | Edmunds",
+   "htmlTitle": "Top 10 \u003cb\u003eFamily Cars\u003c/b\u003e for 2016 | Edmunds",
+   "link": "https://www.edmunds.com/car-reviews/top-10/top-10-family-vehicles-for-2016.html",
+   "displayLink": "www.edmunds.com",
+   "snippet": "Jun 1, 2016 ... We've teamed up with Parents magazine to bring you the best of nearly every \nfamily car category, from crossover to wagon.",
+   "htmlSnippet": "Jun 1, 2016 \u003cb\u003e...\u003c/b\u003e We&#39;ve teamed up with Parents magazine to bring you the best of nearly every \u003cbr\u003e\n\u003cb\u003efamily car\u003c/b\u003e category, from crossover to wagon.",
+   "cacheId": "utcJrynbwdUJ",
+   "formattedUrl": "https://www.edmunds.com/car.../top-10-family-vehicles-for-2016.html",
+   "htmlFormattedUrl": "https://www.edmunds.com/\u003cb\u003ecar\u003c/b\u003e.../top-10-\u003cb\u003efamily\u003c/b\u003e-vehicles-for-2016.html",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "240",
+      "height": "160",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSpwi37zoEO3fmKPI6JwoR2PXo5ut99mkBBsI5Avmw7oS6sZTS_ttXEQUU"
+     }
+    ],
+    "metatags": [
+     {
+      "fb:app_id": "96106612846",
+      "apple-itunes-app": "app-id=393630966",
+      "viewport": "width=device-width, initial-scale=0.9, user-scalable=yes",
+      "og:url": "https://www.edmunds.com/car-reviews/top-10/top-10-family-vehicles-for-2016.html",
+      "twitter:url": "https://www.edmunds.com/car-reviews/top-10/top-10-family-vehicles-for-2016.html",
+      "og:description": "We've teamed up with Parents magazine to bring you the best of nearly every family car category, from crossover to wagon.",
+      "og:title": "Top 10 Family Cars for 2016 | Edmunds",
+      "og:type": "article",
+      "og:site_name": "Edmunds",
+      "fb:admins": "6230134",
+      "fb:pages": "5798888989",
+      "twitter:description": "We've teamed up with Parents magazine to bring you the best of nearly every family car category, from crossover to wagon.",
+      "twitter:card": "summary_large_image",
+      "twitter:title": "Top 10 Family Cars for 2016 | Edmunds",
+      "twitter:site": "@edmunds",
+      "og:image": "https://media.ed.edmunds-media.com/chevrolet/volt/2016/fe/2016_chevrolet_volt_f34_fe_420161_300.jpg",
+      "og:image:width": "300",
+      "og:image:height": "200",
+      "twitter:image": "https://media.ed.edmunds-media.com/chevrolet/volt/2016/fe/2016_chevrolet_volt_f34_fe_420161_300.jpg",
+      "twitter:image:height": "300",
+      "twitter:image:width": "200"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.ed.edmunds-media.com/chevrolet/volt/2016/fe/2016_chevrolet_volt_f34_fe_420161_300.jpg"
+     }
+    ],
+    "article": [
+     {
+      "name": "Top 10 Family Vehicles for 2016",
+      "headline": "Top 10 Family Vehicles for 2016",
+      "description": "We've teamed up with Parents magazine to bring you the best of nearly every family car category, from crossover to wagon.",
+      "datepublished": "2016-06-01T01:00:00-07:00",
+      "image": "https://media.ed.edmunds-media.com/chevrolet/volt/2016/fe/2016_chevrolet_volt_f34_fe_420161_600.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Family car - Wikipedia",
+   "htmlTitle": "\u003cb\u003eFamily car\u003c/b\u003e - Wikipedia",
+   "link": "https://en.wikipedia.org/wiki/Family_car",
+   "displayLink": "en.wikipedia.org",
+   "snippet": "A family car is a car classification used in Europe to describe normally-sized cars. \nThe name comes from the suitability of these cars to carry a whole family ...",
+   "htmlSnippet": "A \u003cb\u003efamily car\u003c/b\u003e is a car classification used in Europe to describe normally-sized cars. \u003cbr\u003e\nThe name comes from the suitability of these cars to carry a whole family&nbsp;...",
+   "cacheId": "ERtUN_em0kEJ",
+   "formattedUrl": "https://en.wikipedia.org/wiki/Family_car",
+   "htmlFormattedUrl": "https://en.wikipedia.org/wiki/\u003cb\u003eFamily\u003c/b\u003e_\u003cb\u003ecar\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "289",
+      "height": "174",
+      "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTXDcwqJMQtuJKOsWVBQbwygrv_ke-58o0r5G9JV70ED05USZmHCzBXIIc"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin-when-cross-origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2016_Toyota_Corolla_%28ZRE182R%29_Ascent_Sport_hatchback_%282017-01-30%29_01.jpg/1200px-2016_Toyota_Corolla_%28ZRE182R%29_Ascent_Sport_hatchback_%282017-01-30%29_01.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/2016_Toyota_Corolla_%28ZRE182R%29_Ascent_Sport_hatchback_%282017-01-30%29_01.jpg/1200px-2016_Toyota_Corolla_%28ZRE182R%29_Ascent_Sport_hatchback_%282017-01-30%29_01.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "7 Best Cars for Young Families",
+   "htmlTitle": "7 Best \u003cb\u003eCars\u003c/b\u003e for Young \u003cb\u003eFamilies\u003c/b\u003e",
+   "link": "http://www.bankrate.com/auto/7-best-family-cars-for-2016-that-meet-safety-price-and-fuel-economy-standards/",
+   "displayLink": "www.bankrate.com",
+   "snippet": "Jun 14, 2016 ... These midsize family sedans come packed with high-tech gear and plenty of \npickup.",
+   "htmlSnippet": "Jun 14, 2016 \u003cb\u003e...\u003c/b\u003e These midsize \u003cb\u003efamily\u003c/b\u003e sedans come packed with high-tech gear and plenty of \u003cbr\u003e\npickup.",
+   "cacheId": "14WlG2qDWroJ",
+   "formattedUrl": "www.bankrate.com/.../7-best-family-cars-for-2016-that-meet-safety-price- and-fuel-economy-standards/",
+   "htmlFormattedUrl": "www.bankrate.com/.../7-best-\u003cb\u003efamily\u003c/b\u003e-\u003cb\u003ecars\u003c/b\u003e-for-2016-that-meet-safety-price- and-fuel-economy-standards/",
+   "pagemap": {
+    "metatags": [
+     {
+      "site": "br3",
+      "fb:app_id": "1832579506973262",
+      "pagetype": "article",
+      "contenttype": "article",
+      "author": "Russ Heaps",
+      "category": "auto",
+      "published": "20160614",
+      "modified": "20170321",
+      "pagenumber": "1",
+      "adarea": "auto",
+      "adkeyword": "cta_ratetable, editorspick, jean-chatzky, jeanchatzky, life-stage-parenthood, migrated, migrated_auto, multi, newcarbuying, parenthood, sedan, slideshow",
+      "og:title": "7 Best Cars for Young Families",
+      "og:description": "These midsize family sedans come packed with high-tech gear and plenty of pickup.",
+      "og:url": "http://www.bankrate.com/auto/7-best-family-cars-for-2016-that-meet-safety-price-and-fuel-economy-standards/",
+      "og:type": "article",
+      "og:site_name": "Bankrate",
+      "og:image": "https://media.brstatic.com/2017/03/17171235/couple-looking-at-car-for-sale-getty-mst.jpg",
+      "twitter:card": "summary",
+      "twitter:site": "@bankrate",
+      "twitter:title": "7 Best Cars for Young Families",
+      "twitter:description": "These midsize family sedans come packed with high-tech gear and plenty of pickup.",
+      "twitter:image": "https://media.brstatic.com/2017/03/17171235/couple-looking-at-car-for-sale-getty-mst.jpg",
+      "viewport": "width=device-width, initial-scale=1",
+      "pagemetadata:impressionid": "ENGPWEBV50:387b4851-4af2-4358-8fe9-bb122124ba16:94043:Desktop:Unknown:br3:auto:article:%5B2017-03-26T22:54:25.5133558Z%5D:EB4FFED0C1E9D541FEE84877DDAEE61EBCBFECF4",
+      "pagemetadata:vid": "387b4851-4af2-4358-8fe9-bb122124ba16",
+      "pagemetadata:pageid": "32VTbIn3",
+      "pagemetadata:purchaseid": "24873101490572800824"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://media.brstatic.com/2017/03/17171235/couple-looking-at-car-for-sale-getty-mst.jpg"
+     }
+    ]
+   }
+  }
+ ]
+}

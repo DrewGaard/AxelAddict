@@ -1,0 +1,12 @@
+Things left to do:
+
+1. Finishing the personality keyword matching
+2. Personality Results Window
+	- Displaying the cars to the window
+3. How to use keyowrds and user input to form the string to search google API
+	*First, going to finish up the basic framework of the rest of the personality side:
+		~Get keywords
+		~Form a temporary string to search google API
+		~Parse the json 
+		~Print something to the finalized personalityResultsWindow
+	*Then go back and all focus on formulating a better string to search google API since that's the only thing that will be left
